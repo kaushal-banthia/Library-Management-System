@@ -1,0 +1,24 @@
+Filename: Hamlet.txt
+Type: Play
+Title: Hamlet
+Author: William Shakespeare
+Filename: Heretics.txt
+Type: Novel
+Title: Heretics
+Author: Gilbert K. Chesterton
+Filename: JuliusCaesar.txt
+Type: Play
+Title: Julius Caesar
+Author: William Shakespeare
+Filename: moby-dick.txt
+Type: Novel
+Title: Moby Dick; or The Whale
+Author: Herman Melville
+Filename: romeo-julliet.txt
+Type: Play
+Title: Romeo and Juliet
+Author: William Shakespeare
+Filename: Uncle-Tom.txt
+Type: Novel
+Title: Uncle Tom’s Cabin
+Author: Harriet Beecher Stowe
